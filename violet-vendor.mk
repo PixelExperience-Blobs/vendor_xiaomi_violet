@@ -982,7 +982,6 @@ PRODUCT_PACKAGES += \
     DeviceInfo \
     ImsRcsService \
     QtiTelephonyService \
-    datastatusnotification \
     embms \
     dpmserviceapp \
     ims \
